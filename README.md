@@ -1,7 +1,6 @@
-
 # Cybersecurity Portfolio
 
-Hello! This is a collection of my cybersecurity portfolio and write-ups. My portfolio showcases a range of skills from penetration testing to malware analysis and network security.
+Hello! This is a collection of my cybersecurity portfolio and write-ups - my range portfolio showcase.
 
 ## Contents
 
